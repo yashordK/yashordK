@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashordK aka Yash
 - 👀 I’m interested in Coding (Python, Web Dev, C++), AI/ML, automation(n8n) workflows and UI/UX Design
-- 🌱 I’m currently learning C & C++
+- 🌱 Find more about me below - continue reading
 - 💞️ I’m looking to collaborate on any kinda Projects
 - 📫 How to reach me
 -     My mail: yashupadhyaywork01@gmail.com
